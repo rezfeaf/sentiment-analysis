@@ -1,0 +1,9 @@
+text,sentiment,polarity,subjectivity
+I love this product,Positive,0.5,0.6
+This is terrible,Negative,-1.0,1.0
+The weather is okay,Positive,0.5,0.5
+Best day of my life,Positive,1.0,0.3
+I hate waiting,Negative,-0.8,0.9
+The meeting was average,Negative,-0.15,0.4
+This food is amazing,Positive,0.6,0.9
+Worst experience ever,Negative,-1.0,1.0

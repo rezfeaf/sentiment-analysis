@@ -1,0 +1,21 @@
+
+Date       : 2026-05-10 08:25:59
+Text       : i am the best
+Sentiment  : Positive 😊
+Polarity   : 1.00
+Subjectivity: 0.30
+----------------------------------------
+
+Date       : 2026-05-10 08:26:09
+Text       : I love woman
+Sentiment  : Positive 😊
+Polarity   : 0.50
+Subjectivity: 0.60
+----------------------------------------
+
+Date       : 2026-05-10 08:26:23
+Text       : I will die soon
+Sentiment  : Neutral 😐
+Polarity   : 0.00
+Subjectivity: 0.00
+----------------------------------------
